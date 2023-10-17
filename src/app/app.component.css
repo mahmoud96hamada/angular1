@@ -1,0 +1,26 @@
+.form{
+    border:solid 1px;
+    margin-inline: 200px;
+    margin-top: 50px;
+    padding-inline: 20px;
+    width: 400px;
+    padding-bottom: 10px;
+}
+.btn1{
+    margin-top: 10px;
+    background-color: purple;
+    color: white;
+}
+.a1{
+    color: purple;
+    position: relative;
+    left: 300px;
+}
+.input{
+    width: 370px;
+    height: 30px;
+}
+.h1{
+    text-align: center;
+    font-style:italic;
+}
