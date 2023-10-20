@@ -1,0 +1,16 @@
+.btn1{
+    margin-top: 10px;
+    background-color: purple;
+    color: white;
+    width: 90px;
+    height: 40px;
+}
+.a1{
+    color: purple;
+    position: relative;
+    left: 240px;
+}
+.input{
+    width: 370px;
+    height: 30px;
+}
