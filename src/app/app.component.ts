@@ -3,11 +3,10 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-    <form class="form">
-      <app-header [guestname]=user></app-header>
-      <app-form></app-form>
-      <app-home></app-home>
-    </form>
+    <div class="form">
+      <router-outlet></router-outlet>
+      
+</div>
   `,
   styleUrls: ['./app.component.css']
 })
